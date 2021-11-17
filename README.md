@@ -1,1 +1,8 @@
-# PEC2_Visualizacion_de_datos_UOC
+# PEC2 Visualizacion de datos UOC
+
+## Contenido:
+
+### Vídeo explicativo.
+
+### URL de las visualizaciones: 
+

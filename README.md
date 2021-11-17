@@ -1,6 +1,6 @@
-# PEC2 Visualizacion de datos UOC
+# Visualizacion de datos UOC - PEC 2, Técnicas de visualización
 
-## Contenido:
+## Contenido
 
 ### Vídeo explicativo ⌨️
 
